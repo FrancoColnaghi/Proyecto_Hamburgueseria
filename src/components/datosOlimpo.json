@@ -1,0 +1,89 @@
+[
+    {
+        "name": "Tex-Mex",
+        "img": "_texmex.jpg",
+        "condimentos": [
+            "Guacamole",
+            "Jalapeños",
+            "Cebolla a la parrilla",
+            "Queso Pepper Jack"
+        ],
+        "info": "Inspirada en los sabores picantes y sabrosos de la cocina texana y mexicana."
+    },
+    {
+        "name": "Pollo Teriyaki",
+        "img": "_teriyaki.jpg",
+        "condimentos": [
+            "Pollo a la parrilla",
+            "Salsa teriyaki",
+            "Piña",
+            "Lechuga"
+        ],
+        "info": "Una opción sabrosa y tropical con influencia de la cocina asiática."
+    },
+    {
+        "name": "Mediterránea",
+        "img": "_mediterranea.jpg",
+        "condimentos": [
+            "Queso feta",
+            "Aceitunas kalamata",
+            "Espinacas frescas",
+            "Tomate seco"
+        ],
+        "info": "Inspirada en los sabores frescos y saludables de la región mediterránea."
+    },
+    {
+        "name": "Salmón",
+        "img": "_salmon.jpg",
+        "condimentos": [
+            "Salmón a la parrilla",
+            "Aguacate",
+            "Cebolla morada",
+            "Salsa de eneldo"
+        ],
+        "info": "Una alternativa más ligera y rica en omega-3, ideal para los amantes del pescado."
+    },
+    {
+        "name": "Pavo con Arándanos",
+        "img": "_pavo_arandanos.jpg",
+        "condimentos": [
+            "Carne de pavo",
+            "Arándanos frescos",
+            "Espinacas",
+            "Queso suave"
+        ],
+        "info": "Una combinación única de sabores dulces y salados."
+    },
+    {
+        "name": "Hawaiana",
+        "img": "_hawaiana.jpg",
+        "condimentos": [
+            "Jamón",
+            "Piña a la parrilla",
+            "Cebolla caramelizada",
+            "Queso suizo"
+        ],
+        "info": "Evoca la sensación de estar en una isla tropical con sabores tropicales."
+    },
+    {
+        "name": "Champiñones Portobello",
+        "img": "_portobello.jpg",
+        "condimentos": [
+            "Champiñones portobello a la parrilla",
+            "Queso suave",
+            "Espinacas",
+            "Tomate"
+        ],
+        "info": "Opción vegetariana con un sabor terroso y delicioso de los champiñones."
+    },
+    {
+        "name": "Cordero con Menta",
+        "img": "_cordero_menta.jpg",
+        "condimentos": [
+            "Carne de cordero",
+            "Hojas de menta fresca",
+            "Yogurt de menta"
+        ],
+        "info": "Una Hamburguesa con sabores audaces y refrescantes."
+    }
+]

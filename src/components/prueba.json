@@ -1,0 +1,98 @@
+[
+  {
+      "name": "Hera",
+      "img": "hera.jpg",
+      "condimentos": [
+          "Salsa Criolla",
+          "Lechuga",
+          "Jamon",
+          "Huevo Frito",
+          "Queso Cheddar"
+      ],
+      "precio":1500,
+      "info": "Inspirada en los sabores picantes y sabrosos de la cocina texana y mexicana."
+  },
+  {
+      "name": "Gea",
+      "img": "gea.jpg",
+      "condimentos": [
+          "Barbacoa",
+          "Cebolla Caramelizada",
+          "Panceta Cocida",
+          "Queso Cheddar"
+      ],
+      "precio":1550,
+      "info": "Una opción sabrosa y tropical con influencia de la cocina asiática."
+  },
+  {
+      "name": "Mediterránea",
+      "img": "_mediterranea.jpg",
+      "condimentos": [
+          "Queso feta",
+          "Aceitunas kalamata",
+          "Espinacas frescas",
+          "Tomate seco"
+      ],
+      "precio":1600,
+      "info": "Inspirada en los sabores frescos y saludables de la región mediterránea."
+  },
+  {
+      "name": "Salmón",
+      "img": "_salmon.jpg",
+      "condimentos": [
+          "Salmón a la parrilla",
+          "Aguacate",
+          "Cebolla morada",
+          "Salsa de eneldo"
+      ],
+      "precio":1700,
+      "info": "Una alternativa más ligera y rica en omega-3, ideal para los amantes del pescado."
+  },
+  {
+      "name": "Pavo con Arándanos",
+      "img": "_pavo_arandanos.jpg",
+      "condimentos": [
+          "Carne de pavo",
+          "Arándanos frescos",
+          "Espinacas",
+          "Queso suave"
+      ],
+      "precio":1800,
+      "info": "Una combinación única de sabores dulces y salados."
+  },
+  {
+      "name": "Hawaiana",
+      "img": "_hawaiana.jpg",
+      "condimentos": [
+          "Jamón",
+          "Piña a la parrilla",
+          "Cebolla caramelizada",
+          "Queso suizo"
+      ],
+      "precio":1600,
+      "info": "Evoca la sensación de estar en una isla tropical con sabores tropicales."
+  },
+  {
+      "name": "Champiñones Portobello",
+      "img": "_portobello.jpg",
+      "condimentos": [
+          "Champiñones portobello a la parrilla",
+          "Queso suave",
+          "Espinacas",
+          "Tomate"
+      ],
+      "precio":1700,
+      "info": "Opción vegetariana con un sabor terroso y delicioso de los champiñones."
+  },
+  {
+      "name": "Cordero con Menta",
+      "img": "_cordero_menta.jpg",
+      "condimentos": [
+          "Carne de cordero",
+          "Hojas de menta fresca",
+          "Yogurt de menta"
+      ],
+      "precio":1900,
+      "info": "Una Hamburguesa con sabores audaces y refrescantes."
+  }
+]
