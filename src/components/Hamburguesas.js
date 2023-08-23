@@ -3,8 +3,6 @@ import ListaOlimpo from './prueba.json'
 
 export const Hamburguesas = () => {
 
-    //console.log(ListaOlimpo)
-
     const listaObjetos = ListaOlimpo.map((o,i)=>{
         return (
             <div className='hamb-card' key={i}>
@@ -20,8 +18,6 @@ export const Hamburguesas = () => {
             </div>
         )
     })
-
-    //console.log(listaObjetos)
 
     return (
         <section className='hamb-cont'>
